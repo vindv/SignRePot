@@ -1,0 +1,9 @@
+name: SingRePot
+version: 1.0.0
+main: sing\Loader
+api: 5.0.0
+author: Vind
+
+permissions:
+  repot.sing:
+    default: op
