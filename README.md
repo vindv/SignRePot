@@ -4,6 +4,6 @@
  This plugin opens a menu with items to help the player
 
 # Permission
-  ## repot.sing
+  ## repot.sign
 # Use
   ## [repot]
